@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Virat Kohli",
+    "team": "India",
+    "role": "Batter",
+    "file": "virat-kohli.jpg"
+  },
+  {
+    "name": "MS Dhoni",
+    "team": "India",
+    "role": "Wicketkeeper",
+    "file": "ms-dhoni.jpg"
+  },
+  {
+    "name": "Rohit Sharma",
+    "team": "India",
+    "role": "Batter",
+    "file": "rohit-sharma.jpg"
+  },
+  {
+    "name": "Sachin Tendulkar",
+    "team": "India",
+    "role": "Batter",
+    "file": "sachin-tendulkar.jpg"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "team": "India",
+    "role": "Bowler",
+    "file": "jasprit-bumrah.jpg"
+  },
+  {
+    "name": "Steve Smith",
+    "team": "Australia",
+    "role": "Batter",
+    "file": "steve-smith.jpg"
+  },
+  {
+    "name": "Joe Root",
+    "team": "England",
+    "role": "Batter",
+    "file": "joe-root.jpg"
+  },
+  {
+    "name": "Kane Williamson",
+    "team": "New Zealand",
+    "role": "Batter",
+    "file": "kane-williamson.jpg"
+  },
+  {
+    "name": "Babar Azam",
+    "team": "Pakistan",
+    "role": "Batter",
+    "file": "babar-azam.jpg"
+  },
+  {
+    "name": "AB de Villiers",
+    "team": "South Africa",
+    "role": "Batter",
+    "file": "ab-de-villiers.jpg"
+  },
+  {
+    "name": "Hardik Pandya",
+    "team": "India",
+    "role": "All-rounder",
+    "file": "hardik-pandya.jpg"
+  },
+  {
+    "name": "KL Rahul",
+    "team": "India",
+    "role": "Wicketkeeper",
+    "file": "kl-rahul.jpg"
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "team": "India",
+    "role": "All-rounder",
+    "file": "ravindra-jadeja.jpg"
+  },
+  {
+    "name": "Ben Stokes",
+    "team": "England",
+    "role": "All-rounder",
+    "file": "ben-stokes.jpg"
+  },
+  {
+    "name": "Rashid Khan",
+    "team": "Afghanistan",
+    "role": "Bowler",
+    "file": "rashid-khan.jpg"
+  }
+]
